@@ -15,7 +15,7 @@ namespace AssignmentWeb.Controllers
 
         public ActionResult About()
         {
-            ViewBag.Message = "Assignment for Nihal and Nikhil updated!!";
+            ViewBag.Message = "Assignment for Nihal and Nikhil updated for the second time!!";
 
             return View();
         }
